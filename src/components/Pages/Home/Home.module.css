@@ -1,0 +1,52 @@
+.app {
+  background-image: url(https://static-assets.bamgrid.com/product/disneyplus/images/background.dc67869b698f6c927aae59c68d9dda46.png);
+  background-size: 100%;
+  width: 100%;
+  min-height: 88vh;
+}
+
+.container {
+  width: 1920px;
+  height: 300px;
+  display: inline;
+}
+
+.image-gallery-custom-action {
+  width: 100%;
+  height: auto;
+  cursor: pointer;
+}
+
+.container p {
+  white-space: nowrap;
+  text-align: center;
+  padding: 0px;
+  margin: 0px;
+  position: absolute;
+  top: 265px;
+  left: 200px;
+  text-transform: uppercase;
+  color: white;
+  font-family: monospace;
+  font-size: 30px;
+  cursor: pointer;
+}
+
+@media screen and (max-width: 768px) {
+  .app {
+    min-height: 798px;
+    overflow: auto;
+  }
+
+  .image-gallery-custom-action {
+    width: 100%;
+    height: 500px;
+
+    cursor: pointer;
+  }
+  .container p {
+    font-size: 15px;
+    top: 250px;
+    left: 50px;
+  }
+}

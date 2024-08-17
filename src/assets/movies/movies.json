@@ -1,0 +1,50 @@
+[
+  {
+    "id": "9a13433b-a912-4502-8de3-da23b6263063",
+    "name": "El Planeta de los Simios : Nuevo Reino",
+    "duration": "2h 27 min",
+    "type": "movie",
+    "year": "2024",
+    "slice": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/0f0aec40-efa9-4cac-801c-f20f8cf588e6/compose?format=webp&label=hero_carousel_300&width=2880",
+    "wallpaper": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/9a13433b-a912-4502-8de3-da23b6263063/compose?format=webp&width=1440",
+    "mobile": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/22898428-88cf-409b-8101-4bf398828c97/compose?format=webp&label=hero_carousel_080&width=1536",
+    "gener": "Ciencia Ficcion, Accion y aventura",
+    "details": "El director Wes Ball le da nueva vida a esta épica franquicia global con un espectáculo de acción y aventura de parte de 20th Century Studios. En el futuro, varias generaciones después del reinado de César, los simios viven en armonía como la especie dominante... mientras que los humanos viven en las sombras. Cuando un nuevo líder simio tiránico empieza a construir su imperio, un simio joven se embarca en un viaje estremecedor que lo obligará a cuestionar todo lo que conoce del pasado y tomar decisiones que definirán un futuro tanto para los simios como para los humanos. Algunas secuencias o patrones de luces intermitentes pueden afectar a espectadores fotosensibles."
+  },
+  {
+    "id": "78bcdd97-6a24-4d8d-a0c1-3b850c595008",
+    "name": "El encargado",
+    "duration": "3 temporadas",
+    "type": "serie",
+    "slice": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/c2599329-2ad4-4fa9-8f01-4094778aada4/compose?format=webp&label=hero_carousel_star-original_300&width=2880",
+    "wallpaper": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/78bcdd97-6a24-4d8d-a0c1-3b850c595008/compose?format=webp&width=1440",
+    "mobile": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/8e6b357e-fd00-450d-a9fd-f60b76728090/compose?format=webp&label=hero_carousel_star-original_080&width=1536",
+    "year": "2022 - 2024",
+    "gener": "Comedia",
+    "details": "“El encargado” es una comedia dramática que narra con ironía y humor las aventuras de Eliseo, que a espaldas del consorcio que lo emplea hace uso y abuso de su poder de vigilancia e intromisión. El edificio es un universo cuyo ecosistema tiene dinámicas y normas específicas, y Eliseo las conoce todas a la perfección. Allí vive, trabaja y absorbe hasta el último detalle de la vida de sus habitantes. Pero, debajo de su apariencia servicial y obsecuente, oculta un talento para manipularlos. Una máscara de humildad y honestidad es su arma más eficaz para operar sobre ellos, su poder es el conocimiento. Sabe todo sobre quienes habitan el lugar: nombres, horarios, trabajos, vínculos, debilidades, gustos. Así es como diseña estrategias de influencia sobre cada persona y puede calcular con precisión cómo van a reaccionar a sus estímulos. Entonces, según sus caprichos, ánimo o necesidad por defender el trabajo a toda costa, es capaz de causar daños de amplio espectro. También imparte justicia y protege a los que considera más débiles. Sin duda alguna, Eliseo es un dios en su propio territorio.Algunas secuencias o patrones de luces intermitentes pueden afectar a espectadores fotosensibles."
+  },
+  {
+    "id": "13fb614a-f6f6-4b39-be91-19c89203da7a",
+    "name": "Wanda vision",
+    "duration": "1 temporada",
+    "type": "serie",
+    "slice": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/a54ad777-0789-4fc9-bd05-f4c87afb4cf3/compose?format=webp&label=hero_carousel_disney-original_300&width=2880",
+    "wallpaper": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/13fb614a-f6f6-4b39-be91-19c89203da7a/compose?format=webp&width=1440",
+    "mobile": "https://i.ibb.co/HqnzPrC/WANDAVISION-POSTER.webp",
+    "year": "2021",
+    "gener": "Ciencia Ficcion, Accion y aventura",
+    "details": "“WandaVision” de Marvel Studios combina la comedia de situación clásica con el universo cinematográfico de Marvel para continuar la historia de Wanda Maximoff (Elizabeth Olsen) y Visión (Paul Bettany), una pareja de superhéroes con una vida aparentemente ideal que empieza a sospechar de la realidad. Dirigida por Matt Shakman, escrita por Jac Schaeffer."
+  },
+  {
+    "id": "cc621f26-ca33-4dd4-8b08-9e6c7af297c6",
+    "name": "Conmebol Libertadores",
+    "duration": "--",
+    "type": "deporte",
+    "slice": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/38de694f-af99-43b7-ab62-488db428c073/compose?format=webp&label=hero_carousel_300&width=2880",
+    "wallpaper": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/cc621f26-ca33-4dd4-8b08-9e6c7af297c6/compose?format=webp&width=2880",
+    "mobile": "https://pbs.twimg.com/media/GI_jYQBXIAE2LlW?format=jpg&name=large",
+    "year": "2024",
+    "gener": "Deportes y competencias",
+    "details": "Mira todos los partidos de la Conmebol libertadores 2024"
+  }
+]

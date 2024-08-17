@@ -1,0 +1,62 @@
+.botom2 {
+  box-sizing: border-box;
+  margin: 0;
+  overflow: visible;
+  font-family: sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  transition-duration: 200ms;
+  transition-timing-function: ease-in-out;
+  cursor: pointer;
+  text-transform: uppercase;
+  letter-spacing: 1.76px;
+  margin-top: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 0;
+  margin-right: 20px;
+  color: #f9f9f9;
+  background-color: #f9f9f933;
+  border: none;
+  backdrop-filter: blur(20px);
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  line-height: normal;
+}
+
+.svgBotom {
+  user-select: none;
+  -webkit-font-smoothing: antialiased;
+  font-family: '_10guvpk0', sans-serif;
+  font-size: 15px;
+  line-height: 1.6;
+  font-weight: 600;
+  cursor: pointer;
+  text-transform: uppercase;
+  letter-spacing: 1.76px;
+  fill: currentcolor;
+  width: 18;
+  height: 18;
+  box-sizing: border-box;
+  color: inherit;
+  margin-right: 16px;
+}
+
+.svg-addlist {
+  font-family: sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+  text-transform: uppercase;
+  letter-spacing: 1.76px;
+  line-height: normal;
+  fill: currentcolor;
+  width: 20;
+  height: 16;
+  box-sizing: border-box;
+  color: #f9f9f9;
+  transition-duration: 200ms;
+  transition-timing-function: ease-in-out;
+}

@@ -1,0 +1,34 @@
+.container {
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  /* width: 100%; */
+  height: 72px;
+  padding-left: 20px;
+}
+
+.container-menu {
+  display: flex;
+  gap: 50px;
+  align-items: center;
+}
+
+.menu {
+  display: flex;
+  gap: 50px;
+  justify-content: space-between;
+}
+
+img {
+  width: 86px;
+}
+
+@media screen and (max-width: 768px) {
+  .container-menu {
+    gap: 20px;
+  }
+  .menu {
+    gap: 5px;
+  }
+}

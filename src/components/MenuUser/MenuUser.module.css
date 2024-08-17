@@ -1,0 +1,55 @@
+.navbar {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  background-color: #000000;
+  width: 10%;
+  padding: 10px;
+  color: white;
+  z-index: 1;
+}
+
+.navbar a {
+  color: white;
+  text-decoration: none;
+  padding: 14px 20px;
+}
+
+.menuIcon {
+  font-size: 24px;
+  cursor: pointer;
+  display: none; /* Oculto por defecto en pantallas grandes */
+}
+
+/* Estilos para pantallas grandes */
+.navLinks {
+  display: flex;
+  list-style: none;
+}
+
+/* Estilos para pantallas pequeñas */
+@media screen and (max-width: 1920px) {
+  .menuIcon {
+    display: block; /* Mostrar el ícono del menú en pantallas pequeñas */
+  }
+
+  .navLinks {
+    display: none; /* Ocultar el menú por defecto */
+    flex-direction: column;
+    width: 10%;
+    position: absolute;
+    top: 50px;
+    right: 0;
+    padding: 9px;
+    background-color: #000000;
+    text-align: center;
+  }
+
+  .navLinks li {
+    padding: 10px 0;
+  }
+
+  .navLinks.show {
+    display: flex; /* Mostrar el menú al hacer clic */
+  }
+}

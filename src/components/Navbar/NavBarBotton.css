@@ -1,0 +1,44 @@
+.container-navbotton {
+  display: flex;
+  align-items: baseline;
+}
+
+.navbar-text {
+  color: white;
+  text-decoration: none;
+  font-size: 13px;
+  letter-spacing: 1.42px;
+  font-family: Inspire-Bold, sans-serif;
+  text-transform: uppercase;
+}
+
+.navbar-icon {
+  display: inline;
+  margin-right: 10px;
+}
+
+.navbar-text::after {
+  content: '';
+  display: block;
+  height: 3px;
+  background-color: rgb(255, 255, 255);
+  transform: scale(0, 1);
+  transform-origin: center;
+  transition: transform 0.25s;
+}
+
+.navbar-text:hover::after {
+  transform: scale(1, 1);
+}
+
+@media screen and (max-width: 1500px) {
+  .navbar-text {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .container-navbotton {
+    flex-direction: column;
+  }
+}

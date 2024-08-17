@@ -1,0 +1,12 @@
+.container-footer {
+  background-color: black;
+  width: 100%;
+  display: block;
+}
+
+.text-footer {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
